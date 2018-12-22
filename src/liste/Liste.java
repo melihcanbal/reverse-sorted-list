@@ -2,7 +2,7 @@
 package liste;
 import java.util.Scanner;
 
-// https://github.com/melihcanbal 
+// https://github.com/melihcanbal 10.11.2017 - 10.12.2017 
 
 class Item{ 
      int val;   
